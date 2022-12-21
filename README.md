@@ -32,6 +32,9 @@ Make sure you have downloaded the following files to run the test
 Main.java
 chromedriver
 pom.xml
+Workspace.xml 
+I also added other additional files that might needed but so far my test runs using those files
+If you cannot run the test using my credentials, login with your account since Escenario 1 specifies you should be already logged but I added my credentials as part of the test in case might be helpful, but if they don't work run the test already logged in by commenting line 21 (username) line 24 (password) and line 27 (login)
 
 - Installation
 IntelliJ IDEA 2022.1.2 (Community Edition)
