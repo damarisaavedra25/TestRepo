@@ -27,6 +27,7 @@ User must get an  403 unauthorized error
 
 - Requirements
 Make sure you have the Selenium Chrome dependencies to run the test and using intelliJ with Java Languange (I will add the same files I used that made my test passed either way)
+Also please make sure you are using the same import libraries used for the test
 
 - Installation
 IntelliJ IDEA 2022.1.2 (Community Edition)
